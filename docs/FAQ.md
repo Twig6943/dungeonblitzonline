@@ -31,7 +31,7 @@ Yes it does, please see [this](https://dungeonblitz.online/legal.html#privacy)
 It's not. The source will be released once the creator no longer is interested in maintaining it.
 
 ### Is this self-hostable?
-No it's not.
+It's not.
 
 ### Is it possible to run the linux version with wayland/vulkan
 Vulkan is possible via zink (set `MESA_LOADER_DRIVER_OVERRIDE=zink` before running the AppImage which should allow frame generation) wayland isn't possible as the pepperflash plugin requires an old version of electron which doesn't support wayland.
