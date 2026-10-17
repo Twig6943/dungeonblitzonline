@@ -1,6 +1,6 @@
 # Frequently Asked Questions (FAQ)
 
-### Are these official?
+### Is this official?
 No, this is a private server project created for educational and experimental purposes. It is not affiliated with or endorsed by Blue Mammoth Games.
 
 ### Is it free?
@@ -34,4 +34,4 @@ It's not. The source will be released once the creator no longer is interested i
 No it's not.
 
 ### Is it possible to run the linux version with wayland/vulkan
-Vulkan is possible via zink (set `MESA_LOADER_DRIVER_OVERRIDE=zink` before running the AppImage)
+Vulkan is possible via zink (set `MESA_LOADER_DRIVER_OVERRIDE=zink` before running the AppImage which should allow frame generation) wayland isn't possible as the pepperflash plugin requires an old version of electron which doesn't support wayland.
