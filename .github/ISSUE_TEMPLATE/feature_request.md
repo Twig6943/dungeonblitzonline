@@ -2,7 +2,7 @@
 name: Feature Request
 about: A new feature to be added to the project
 title: "[feature]"
-labels: 'feature'
+labels: 'enhancement'
 ---
 
 **Description**
