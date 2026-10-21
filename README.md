@@ -5,4 +5,6 @@
 
 Issue tracker repository for dungeonblitz.online
 
-[Docs](./docs)
+[FAQ](https://dungeonblitz.online/FAQ.html)
+
+[Submit issue/feature request](https://github.com/Twig6943/dungeonblitzonline/issues/new/choose)
